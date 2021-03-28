@@ -1,0 +1,15 @@
+XGBoost model accuracy score: 0.9123
+
+train-auc-mean	train-auc-std	test-auc-mean	test-auc-std
+0	0.667231	0.000481	0.666217	0.000222
+1	0.732657	0.015118	0.730625	0.015039
+2	0.751779	0.012203	0.750623	0.011489
+3	0.765890	0.003919	0.765303	0.004772
+4	0.773456	0.002652	0.772495	0.002141
+
+
+************************************************************
+
+there are more action that can be performed so that model performance can bbe improved.
+Model parameter can be tuned.
+multiple ML algo can be used after proper FE.
